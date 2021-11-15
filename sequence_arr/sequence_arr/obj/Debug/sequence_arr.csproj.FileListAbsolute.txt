@@ -1,0 +1,7 @@
+F:\workspace\C#\example\sequence_arr\sequence_arr\bin\Debug\sequence_arr.exe.config
+F:\workspace\C#\example\sequence_arr\sequence_arr\bin\Debug\sequence_arr.exe
+F:\workspace\C#\example\sequence_arr\sequence_arr\bin\Debug\sequence_arr.pdb
+F:\workspace\C#\example\sequence_arr\sequence_arr\obj\Debug\sequence_arr.csprojAssemblyReference.cache
+F:\workspace\C#\example\sequence_arr\sequence_arr\obj\Debug\sequence_arr.csproj.CoreCompileInputs.cache
+F:\workspace\C#\example\sequence_arr\sequence_arr\obj\Debug\sequence_arr.exe
+F:\workspace\C#\example\sequence_arr\sequence_arr\obj\Debug\sequence_arr.pdb

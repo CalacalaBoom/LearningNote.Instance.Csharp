@@ -826,7 +826,7 @@ public void Add(T value)
         return item;
     }
     
-### 、.NET中的Stack<T>
+### .NET中的Stack<T>
     
 在.NET中Stack的实现是基于数组来实现的，在初始化时为其设置了一个默认的数组大小，在Push方法中当元素个数达到数组长度时，扩充2倍容量，然后将原数组拷贝到新的数组中。Pop方法中则跟我们刚刚实现的代码基本相同。
     
